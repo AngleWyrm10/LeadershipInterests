@@ -1,0 +1,13 @@
+<Manifest>
+    <identifier>AngleWyrm.LeadershipInterests</identifier>
+    <version>2021.3.14</version>
+
+    <dependencies>
+      <li>Mckay.ColonyLeadership.11</li>
+    </dependencies>
+    
+    <loadAfter>
+       <li>Mckay.ColonyLeadership.11</li>
+       <li>dame.interests</li>
+    </loadAfter>
+</Manifest>

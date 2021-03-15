@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Leadership Interests</name>
+    <author>AngleWyrm</author>
+    <description>
+        Allows colony leaders to value interests
+    </description>
+    <url />
+
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+
+    <packageId>AngleWyrm.LeadershipInterests</packageId>
+    <loadAfter>
+        <li>Mckay.ColonyLeadership.11</li>
+        <li>dame.interests</li>
+    </loadAfter>
+  
+ </ModMetaData>
