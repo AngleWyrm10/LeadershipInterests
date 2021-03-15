@@ -4,8 +4,8 @@
 
     <dependencies>
       <li>Mckay.ColonyLeadership.11</li>
-    </dependencies>
-    
+      <li>dame.interests</li>
+    </dependencies>  
     <loadAfter>
        <li>Mckay.ColonyLeadership.11</li>
        <li>dame.interests</li>
