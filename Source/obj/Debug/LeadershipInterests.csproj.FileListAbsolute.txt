@@ -1,0 +1,6 @@
+D:\Games\Steam\steamapps\common\RimWorld\Mods\LeadershipInterests\Source\bin\Debug\LeadershipInterests.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\LeadershipInterests\Source\bin\Debug\LeadershipInterests.pdb
+D:\Games\Steam\steamapps\common\RimWorld\Mods\LeadershipInterests\Source\obj\Debug\LeadershipInterests.csprojAssemblyReference.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\LeadershipInterests\Source\obj\Debug\LeadershipInterests.csproj.CoreCompileInputs.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\LeadershipInterests\Source\obj\Debug\LeadershipInterests.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\LeadershipInterests\Source\obj\Debug\LeadershipInterests.pdb
